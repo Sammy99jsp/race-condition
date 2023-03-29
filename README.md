@@ -4,7 +4,7 @@ where you and your peers see who can pass the most test cases, the fastest!
 
 ## Gameplay
 Everyone has their own editor, and can run the official tests at anytime (after a cooldown period):
-some of these tests are visible, some are not!
+some of these tests are visible, and some are not!
 
 ### Gamemodes
 **Battle Royale** &mdash; the first $n$ people to pass $T_{\text{Acceptable}}$ of $T_{\sum}$ tests get through to the next round.
